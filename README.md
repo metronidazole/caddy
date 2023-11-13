@@ -3,7 +3,7 @@
 [![](https://img.shields.io/docker/cloud/build/metronidazole/caddy)](https://hub.docker.com/r/metronidazole/caddy)
 [![](https://img.shields.io/docker/pulls/metronidazole/caddy)](https://hub.docker.com/r/metronidzole/caddy)
 
-Caddy with additional modules including cloudflare, docker-proxy and maxmind-geolocatio
+Caddy with additional modules including cloudflare, docker-proxy and maxmind-geolocation
 
 I'm using this image in production myself, but you may wish to fork it and deploy your own version rather than trust my image (I would recommend you do).
 
